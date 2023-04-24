@@ -3,7 +3,7 @@ Security Risk Dashboard
 `*alpha software*`
 
 This is a simple dashboard that shows the security risk of open-source projects. Target audiences include:
-- Software Developers -> quickly evaluate the risk of OSS they plan to use in their product
+- Software Developers -> quickly evaluate the risk of OSS they already use or plan to use in their product
 - Security Engineering Teams -> incorporate the rich set of metrics into their risk assessment process
 - Engineering Management -> understand ecosystem-wide risk and make informed decisions about OSS usage
 
